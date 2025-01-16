@@ -1,0 +1,60 @@
+# Dependencies
+/vendor/
+/node_modules/
+composer.lock
+package-lock.json
+
+# Testing
+/tmp/
+/tests/coverage/
+.phpunit.result.cache
+.phpunit.cache
+phpunit.xml.dist
+
+# IDE & Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+*.code-workspace
+
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.swp
+*.sql
+*.zip
+
+# WordPress Test Environment
+/wordpress/
+/wp-content/
+wp-tests-config.php
+/wordpress-tests-lib/
+
+# Build & Deployment
+/dist/
+/build/
+.env
+.env.*
+!.env.example
+
+# Documentation
+/docs/private/
+*.md
+!README.md
+!CHANGELOG.md
+!CONTRIBUTING.md
+
+# Development
+*.map
+.sass-cache/
+*.css.map
+*.js.map
+debug.log
+error_log
+wp-cli.local.yml
+/local-config.php
