@@ -1,0 +1,77 @@
+# Copyright (C) 2025 Patrick Aziken
+# This file is distributed under the same license as the ULC Sitemap package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ULC Sitemap 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ulc-sitemap\n"
+"POT-Creation-Date: 2025-01-17 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-ulc-sitemap-admin.php:23
+msgid "ULC Sitemap Settings"
+msgstr ""
+
+#: includes/class-ulc-sitemap-admin.php:24
+msgid "ULC Sitemap"
+msgstr ""
+
+#: includes/class-ulc-sitemap-admin.php:59
+msgid "Main Settings"
+msgstr ""
+
+#: includes/class-ulc-sitemap-admin.php:66
+msgid "Exclude Post Types"
+msgstr ""
+
+#: includes/class-ulc-sitemap-admin.php:73
+msgid "Exclude Taxonomies"
+msgstr ""
+
+#: includes/class-ulc-sitemap-generator.php:31
+msgid "Invalid sitemap type"
+msgstr ""
+
+#: includes/class-ulc-sitemap-seo.php:127
+msgid "Search Engine Settings"
+msgstr ""
+
+#: includes/class-ulc-sitemap-seo.php:134
+msgid "%s Verification Code"
+msgstr ""
+
+#: includes/class-ulc-sitemap-seo.php:138
+msgid "Enter your %s verification code. Find it in %s"
+msgstr ""
+
+#: includes/class-ulc-sitemap-seo.php:147
+msgid "Social Media Settings"
+msgstr ""
+
+#: includes/class-ulc-sitemap-seo.php:150
+msgid "Enable Facebook Meta Tags"
+msgstr ""
+
+#: includes/class-ulc-sitemap-seo.php:154
+msgid "Facebook App ID"
+msgstr ""
+
+#: includes/class-ulc-sitemap-seo.php:158
+msgid "Enable Twitter Meta Tags"
+msgstr ""
+
+#: includes/class-ulc-sitemap-seo.php:162
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/class-ulc-sitemap-seo.php:164
+msgid "Enter without @ symbol"
+msgstr ""
+
+#: includes/class-ulc-sitemap-rest.php:189
+msgid "Sitemap regenerated successfully"
+msgstr ""
